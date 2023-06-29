@@ -49,6 +49,7 @@ unexpected patterns or traffic from unusual sources.
 
 ● Use Grafana to visualize the processed data in real-time. Create graphs that show traffic
 trends, identify any issues, and provide insights to the network operation team.
+
 You can use the following sample code to generate network traffic data and publish it to the
 Kafka topic. However, you’ll need to write code for ingesting and processing the data in
 real-time.
